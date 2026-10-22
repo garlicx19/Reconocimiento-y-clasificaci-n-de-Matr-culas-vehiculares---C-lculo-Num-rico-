@@ -31,7 +31,7 @@ Resultados obtenidos:
 | [📁 Codigos](Codigos/Codigos.md) | Scripts del proyecto |
 | [📁 Datos](Datos/Datos.md) | Datasets y matrículas obtenidas |
 | [📁 Fuentes](Fuentes/Fuentes.md) | Artículos y referencias consultadas |
-| [📁 Poster](Poster/poster.txt) | Material del poster |
+| [📁 Poster](Poster/poster.md) | Material del poster |
 | [📁 Presentacion](Presentacion/presentacion.md) | Material de la presentación |
 
 ## Códigos
@@ -56,7 +56,7 @@ Lista de referencias y artículos consultados en [Fuentes.md](Fuentes/Fuentes.md
 
 ## Póster
 
-Contenido del póster: [poster.txt](Poster/poster.md).
+Contenido del póster: [poster.md](Poster/poster.md).
 
 ## Presentación
 
