@@ -37,5 +37,5 @@ def crear_csv_clasificado(entrada_csv, salida_csv): #Crear el archivo .csv con l
     df_resultados.to_csv(salida_csv, index=False)
     
     
-crear_csv_clasificado("datos_matriculas.csv", "datos_matriculas_clasificadas.csv")   
+crear_csv_clasificado("datos_matriculas.csv", "datos_clasificados.csv")   #Colocar las direcciones de las carpetas donde se quieran guardar las hojas de datos
     
