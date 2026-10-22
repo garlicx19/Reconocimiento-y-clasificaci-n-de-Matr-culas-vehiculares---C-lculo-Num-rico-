@@ -53,7 +53,7 @@ Documentación general en [Datos.md](Datos/Datos.md).
 
 Lista de referencias y artículos consultados en [Fuentes.md](Fuentes/Fuentes.md).
 - [A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector](Fuentes/A Robust Real-Time Automatic License Plate.pdf)
-- [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition.pdf)
+- [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](Fuentes/An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition.pdf)
 
 ## Póster
 
