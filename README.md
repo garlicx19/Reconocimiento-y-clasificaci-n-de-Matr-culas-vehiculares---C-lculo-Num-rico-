@@ -28,7 +28,7 @@ Resultados obtenidos:
 
 | Carpeta | Descripción |
 |---|---|
-| [📁 Codigos](Codigos/Codigos.md) | Scripts del proyecto |
+| [📁 Codigos](Codigos/) | Scripts del proyecto |
 | [📁 Datos](Datos/Datos.md) | Datasets y matrículas obtenidas |
 | [📁 Fuentes](Fuentes/Fuentes.md) | Artículos y referencias consultadas |
 | [📁 Poster](Poster/poster.md) | Material del poster |
