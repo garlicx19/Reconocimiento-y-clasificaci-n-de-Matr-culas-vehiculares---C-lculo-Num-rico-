@@ -15,7 +15,7 @@ def clasificar_matricula(texto):
             return categoria, formato
     return None, None  # no coincide con ningún formato conocido
 
-def devolver_datos_clasificados(texto):
+def devolver_datos_clasificados(texto): #Toma el texto y devuelve la linea para agregar al .csv
     categoria, formato = clasificar_matricula(texto)
 
     return {
@@ -25,11 +25,11 @@ def devolver_datos_clasificados(texto):
         }
    
 
-def crear_csv_clasificado(entrada_csv, salida_csv):
+def crear_csv_clasificado(entrada_csv, salida_csv): #Crear el archivo .csv con las matriculas clasificadas
     df = pd.read_csv(entrada_csv)
     resultados = []
     
-    for _, row in df.iterrows():
+    for a, row in df.iterrows():
         datos_clasificados = devolver_datos_clasificados(row['texto_matricula'])
         resultados.append(datos_clasificados)
     
