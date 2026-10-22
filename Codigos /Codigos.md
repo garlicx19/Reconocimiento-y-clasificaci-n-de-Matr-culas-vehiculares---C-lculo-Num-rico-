@@ -12,7 +12,7 @@ Scripts del proyecto. Cada uno cubre una etapa del trabajo con las matrículas.
 
 ## Generar Datasets.py
 
-**Qué hace:** * Genera imagenes de ejemplo de matriculas aleatorias que tienen el formato de las paraguayas, tanto del modelo antiguo como el del mercosur*
+**Qué hace:** *Genera imagenes de ejemplo de matriculas aleatorias que tienen el formato de las paraguayas, tanto del modelo antiguo como el del mercosur*
 
 
 ## extractor_de_texto.py
@@ -22,7 +22,7 @@ Scripts del proyecto. Cada uno cubre una etapa del trabajo con las matrículas.
 
 ## Identificar_tipos.py
 
-**Qué hace:** *Toma el archivo .csv que se obtuvo del codigo anterior y genera otro con el tipo de chapa (antigua / Mercosur) y la categoria (auto / moto) *
+**Qué hace:** *Toma el archivo .csv que se obtuvo del codigo anterior y genera otro con el tipo de chapa (antigua / Mercosur) y la categoria (auto / moto)*
 
 
 [← Volver al README](../README.md)
