@@ -36,11 +36,11 @@ Resultados obtenidos:
 
 ## Códigos
 
-Documentación general en [Codigos.md](Codigos/Codigos.md).
+Documentación general en [Codigos.md](Codigos%20/Codigos.md).
 
-- [Generar Datasets.py](Codigos/Generar%20Datasets.py)
-- [Identificar_tipos.py](Codigos/Identificar_tipos.py)
-- [extractor_de_texto.py](Codigos/extractor_de_texto.py)
+- [Generar Datasets.py](Codigos%20/Generar%20Datasets.py)
+- [Identificar_tipos.py](Codigos%20/Identificar_tipos.py)
+- [extractor_de_texto.py](Codigos%20/extractor_de_texto.py)
 
 ## Datos
 
